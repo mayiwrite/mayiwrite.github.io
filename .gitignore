@@ -26,5 +26,4 @@ package-lock.json
 _sass/vendors
 assets/js/dist
 
-keys
-.gitignore
+keys/
