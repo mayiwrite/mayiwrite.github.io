@@ -7,22 +7,25 @@ tags: [love, pain, poetry]     # TAG names should always be lowercase
 
 ![prisoner of love](https://i.imgur.com/5EWKiuF.png){: width="512" height="512" }
 
-When you vanished with your magic,
-Piercing this lover with your concealed blade.
-Cheating death, I embraced your prison of love,
-Consumed by dread, if you would set me free.
+<div class="poem-container">
+  <p class="poem-line">When you vanished with your magic,<br> 
+    Piercing this lover with your concealed blade.<br> 
+    Cheating death, I embraced your prison of love,<br> 
+    Consumed by dread, if you would set me free.</p>
   
-Prisoner for life was I,
-Imprisoned by a glance of your eye.
-You thought I would flee,
-Oh my Jailor! Please come back and see.
+  <p class="poem-line">Prisoner for life was I,<br> 
+    Imprisoned by a glance of your eye.<br> 
+    You thought I would flee,<br> 
+    Oh my Jailor! Please come back and see.</p>
   
-I am cuffed to the scent of our memories, 
-After your glance made this free man into a refugee. 
-Your footsteps walking by, is the sweetest symphony, 
-Making my heartbeat align in its synchrony.
+  <p class="poem-line">I am cuffed to the scent of our memories,<br> 
+    After your glance made this free man into a refugee.<br> 
+    Your footsteps walking by, is the sweetest symphony,<br> 
+    Making my heartbeat align in its synchrony.</p>
   
-Oh my dear Jailor! Let this prisoner sin,
-To love you and be the prisoner of time.
-As our soulless bodies wash away with the tide,
-Let our souls be imprisoned forever in this rhyme.
+  <p class="poem-line">Oh my dear Jailor! Let this prisoner sin,<br> 
+    To love you and be the prisoner of time.<br> 
+    As our soulless bodies wash away with the tide,<br> 
+    Let our souls be imprisoned forever in this rhyme.</p>
+</div>
+
